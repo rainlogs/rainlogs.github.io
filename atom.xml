@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://gridea.rainlogs.com</id>
+    <id>https://rainlogs.github.io</id>
     <title>过路人</title>
-    <updated>2021-03-25T04:15:26.430Z</updated>
+    <updated>2021-03-26T02:01:04.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://gridea.rainlogs.com"/>
-    <link rel="self" href="https://gridea.rainlogs.com/atom.xml"/>
-    <logo>https://gridea.rainlogs.com/images/avatar.png</logo>
-    <icon>https://gridea.rainlogs.com/favicon.ico</icon>
+    <link rel="alternate" href="https://rainlogs.github.io"/>
+    <link rel="self" href="https://rainlogs.github.io/atom.xml"/>
+    <logo>https://rainlogs.github.io/images/avatar.png</logo>
+    <icon>https://rainlogs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 过路人</rights>
     <entry>
         <title type="html"><![CDATA[过路人]]></title>
-        <id>https://gridea.rainlogs.com/post/guo-lu-ren/</id>
-        <link href="https://gridea.rainlogs.com/post/guo-lu-ren/">
+        <id>https://rainlogs.github.io/post/guo-lu-ren/</id>
+        <link href="https://rainlogs.github.io/post/guo-lu-ren/">
         </link>
         <updated>2021-03-24T07:41:55.000Z</updated>
         <content type="html"><![CDATA[<p>曾说这一生不再为爱痴缠</p>
@@ -45,8 +45,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://gridea.rainlogs.com/post/hello-gridea/</id>
-        <link href="https://gridea.rainlogs.com/post/hello-gridea/">
+        <id>https://rainlogs.github.io/post/hello-gridea/</id>
+        <link href="https://rainlogs.github.io/post/hello-gridea/">
         </link>
         <updated>2021-03-23T13:02:25.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
